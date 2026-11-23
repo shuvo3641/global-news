@@ -1,1 +1,0 @@
-{"version":3,"file":"comment.service.js","sourceRoot":"","sources":["../../../../src/app/module/comment/comment.service.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAiB,MAAM,oBAAoB,CAAA;AAE3D,iBAAiB;AACjB,MAAM,CAAC,MAAM,iBAAiB,GAAG,KAAK,EAAE,IAAc,EAAE,EAAE;IACtD,MAAM,OAAO,GAAG,MAAM,OAAO,CAAC,MAAM,CAAC,IAAI,CAAC,CAAA;IAC1C,OAAO,OAAO,CAAA;AAClB,CAAC,CAAA"}
